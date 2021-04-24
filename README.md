@@ -1,4 +1,4 @@
-![alt MATE Programming Lab](https://github.com/MATE-Programming/4_Tuples/blob/main/lab_4.svg?raw=true)
+![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/lab_4.svg)
 # Практическое задание на тему Кортежи
 
 #### 1. Напишите программу для добавления значения к концу кортежа.
