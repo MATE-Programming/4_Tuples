@@ -1,1 +1,1 @@
-#Write the solution of the second exrcise here 
+#Write the solution of the second exercise here 
